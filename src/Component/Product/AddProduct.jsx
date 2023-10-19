@@ -45,7 +45,7 @@ const AddProduct = () => {
             <div className="max-w-7xl mx-auto bg-[#f7f7f7] p-10">
                 <h1 className="text-4xl font-extrabold">Add Product</h1>
                 <form onSubmit={handleAddProduct}>
-                    {/* Row-01 */}
+                    {/* Row-one */}
                     <div className="flex gap-3 my-3">
                         <div className="form-control w-1/2">
                             <label className="label">
@@ -70,7 +70,7 @@ const AddProduct = () => {
                             </select>
                         </div>
                     </div>
-                    {/* Row-02 */}
+                    {/* Row-two */}
                     <div className="flex gap-3 my-3">
                         <div className="form-control w-1/2">
                             <label className="label">
@@ -89,7 +89,7 @@ const AddProduct = () => {
                             </label>
                         </div>
                     </div>
-                    {/* Row-03 */}
+                    {/* Row-three */}
                     <div className="flex gap-3 my-3">
                         <div className="form-control w-1/2">
                             <label className="label">
@@ -108,7 +108,7 @@ const AddProduct = () => {
                             </label>
                         </div>
                     </div>
-                    {/* Row-03 */}
+                    {/* Row-four */}
                     <div className="my-3">
                         <div className="form-control w-full">
                             <label className="label">
