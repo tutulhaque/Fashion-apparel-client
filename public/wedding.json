@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "name": "Photography Package",
+      "image": "https://i.ibb.co/X2nDHKF/services-6.jpg",
+      "description":"Capture the magic of your special day with our Photography Package. Our skilled and experienced photographers will document every moment, from the joyous laughter to the heartfelt tears. We offer a range of photography styles to suit your preferences, whether you prefer classic, candid, or artistic shots. With high-quality equipment and a keen eye for detail, our photographers will ensure that your wedding memories are beautifully preserved for a lifetime. Choose the Photography Package to cherish the essence of your dream wedding forever.",
+      "price": 999
+  
+    },
+    {
+        "id": "2",
+        "name": "Fantasy Decor",
+        "image": "https://i.ibb.co/JmKKSM7/services-1.jpg",
+        "description":"Transform your wedding venue into a fairytale wonderland with our Fantasy Decor service. Dive into a world of enchantment and magic as we bring your wildest wedding decor dreams to life. Our team of creative designers specializes in crafting imaginative and captivating decor setups that will transport you and your guests to a realm of pure fantasy.Imagine walking down the aisle surrounded by cascading floral arrangements, ethereal lighting, and whimsical touches that reflect your unique style and vision. Whether you dream of a romantic forest, a vintage wonderland, or a modern fairytale, we have the expertise to turn your fantasies into reality.",
+        "price": 999
+    },
+    {
+        "id": "3",
+        "name": "Catering Experience",
+        "image": "https://i.ibb.co/X3d2Wgz/services-2.jpg",
+        "description":"Indulge in a culinary journey like no other with our Catering Experience. Our team of talented chefs and catering professionals is dedicated to creating a gastronomic delight that complements the uniqueness of your wedding day. From delectable appetizers to exquisite entrees and divine desserts, we craft a menu that caters to your tastes and dietary preferences. Our commitment to exceptional flavors, impeccable presentation, and top-tier service ensures that your guests will savor every bite. Whether you envision a lavish buffet, a plated dinner, or a themed menu, our Catering Experience guarantees a feast that delights the senses and adds a flavorful dimension to your dream wedding celebration.",
+        "price": 799
+    },
+    {
+        "id": "4",
+        "name": "Live Band",
+        "image": "https://i.ibb.co/pKRk8sM/services-3.jpg",
+        "description":"Elevate your wedding day with the vibrant and dynamic energy of a Live Band. Our skilled musicians and vocalists are here to set the perfect tone for your celebration, delivering a live music experience that is both engaging and memorable. Whether you prefer the soulful melodies of jazz, the classic charm of a string quartet, or the high-energy beats of a live band, we cater to your musical preferences. Our Live Band brings a personalized touch to your event, playing your favorite songs and creating an atmosphere that resonates with the essence of your love story. From the romantic first dance to keeping the dance floor alive throughout the night, our musicians ensure that every moment is filled with the magic of live music. Choose our Live Band service to infuse your wedding with rhythm, harmony, and an unforgettable musical journey.",
+        "price": 899
+    },
+    {"id": "5",
+    "name": "Romantic Honeymoon",
+    "image": "https://i.ibb.co/HVRNH2m/services-4.jpg",
+    "description":"Embark on the journey of a lifetime with our Romantic Honeymoon service. After the whirlwind of your wedding day, escape to a world of intimacy, relaxation, and pure romance. We curate bespoke honeymoon experiences tailored to your desires, ensuring that your first adventure as a married couple is truly unforgettable. Whether you dream of a secluded beachfront paradise, a charming European getaway, or an exotic adventure in a far-off land, we've got you covered. From luxury accommodations and romantic dinners to thrilling excursions and tranquil moments, every detail is meticulously planned to create cherished memories.",
+    "price": 4500
+    },
+    {
+        "id": "6",
+        "name": "Personalized Wedding",
+        "image": "https://i.ibb.co/Q6h8S5v/services-5.jpg",
+        "description":"At Dream Weddings, we believe that every love story is unique, and your wedding should reflect that uniqueness. Our Personalized Wedding service is designed to turn your dreams and ideas into a one-of-a-kind celebration that tells your story. From the choice of colors and decor to the selection of music and ceremony, we work closely with you to infuse your personality, style, and cultural traditions into every aspect of your wedding day. Whether it's an intimate gathering or a grand affair, we strive to make your vision a reality, ensuring that your wedding day is a true reflection of your love and commitment. With our Personalized Wedding service, your special day will be as distinct and extraordinary as your love story, leaving you and your guests with memories to cherish for a lifetime.",
+        "price": 2599
+    }
+  ]
+  
