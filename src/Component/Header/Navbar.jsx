@@ -5,7 +5,7 @@ import mainLogo from '../../assets/main-logo.png';
 import { ToastContainer, toast } from "react-toastify";
 
 const Navbar = () => {
-    // Dark Mode
+    // Dark Mode and Light mode
     const [theme,setTheme] = useState(localStorage.getItem('theme')?localStorage.getItem('theme'):'light')
     useEffect(()=>{
         localStorage.setItem('theme',theme);
@@ -22,7 +22,7 @@ const Navbar = () => {
         }
 
     }
-    // dark Mode
+    // dark Mode Ends
 
     const { user, logOut } = useContext(AuthContext)
     const handleLogOut = () => {
